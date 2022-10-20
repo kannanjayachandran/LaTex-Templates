@@ -1,2 +1,3 @@
 # LaTex-Templates
-This repository contains the LatTex Templates I create
+
+**This repository contains the LatTex Templates I create.**
